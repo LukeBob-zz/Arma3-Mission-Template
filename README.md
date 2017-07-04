@@ -15,4 +15,4 @@ template files for starting arma3 mission in eden editor.
    
     
     These are the base files you will need to start your arma3 mission. Good Luck :).
-    if you put a marker down named "respawn west" the blufor respawn will be set.
+  
