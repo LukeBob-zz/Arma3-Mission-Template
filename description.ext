@@ -5,6 +5,8 @@
     Can be used as template for any mission.
 */
 
+
+
 //-------------------------- Header
 
 author = "";                // Author of the mission. The default loading screen shows this string below the onLoadName in a smaller font prefixed by "by ".
@@ -41,7 +43,6 @@ class Header
 	4 or "GROUP" - Respawn in your group (if there's no AI left, you'll become a seagull).
 	5 or "SIDE" - Respawn into an AI unit on your side (if there's no AI left, you'll become a seagull). With this respawn type, team switch is also available to any.											 
 */
-
 respawn = 3;	
        
 respawnButton = 0;          // Enable or disable the respawn button in the menu for INSTANT and BASE respawn types. 0 = Disabled, 1 = Enabled.
@@ -55,7 +56,6 @@ respawnDialog = 0;          // Show the scoreboard and respawn countdown timer f
     respawnOnStart = -1;    //Dont respawn on start. Don't run respawn script on start.			
     respawnOnStart = -1;    // 1 to respawn player when he joins the game. Available only for INSTANT and BASE respawn types.
 */
-
 respawnOnStart = -1;        // 1 to respawn player when he joins the game. Available only for INSTANT and BASE respawn types.
 
 
