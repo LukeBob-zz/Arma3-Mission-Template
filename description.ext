@@ -85,7 +85,7 @@ reviveBleedOutDelay = 600;          // The time it takes for a unit to bleed out
 
 class CfgFunctions
 {
-    #include "functions\CfgFunctions.cfg"
+    #include "functions\CfgFunctions.hpp" 
 };
 
 
