@@ -9,9 +9,10 @@ template files for starting arma3 mission in eden editor.
     4. initServer.sqf
     5. onPlayerKilled.sqf
     6. onPlayerRespawn.sqf
-    7. CfgFunctions.hpp
-    8. fn_myFirstFunction.sqf
-    9. functions\
+    7. functions\
+    8. functions\CfgFunctions.hpp
+    9. functions\fn_myFirstFunction.sqf
+   
     
     all of the above are all you need to start your own arma3 mission. 
     if you put a marker down named "respawn west" the blufor respawn will be set.
