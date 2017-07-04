@@ -1,7 +1,7 @@
 # Arma3-Mission-Template
 template files for starting arma3 mission in eden editor.
 
-#contents
+## contents
 
     1. init.sqf
     2. Description.ext
