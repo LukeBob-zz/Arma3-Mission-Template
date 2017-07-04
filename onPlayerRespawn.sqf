@@ -1,5 +1,5 @@
 /*
-    filename: @description.ext
+    filename: @onPlayerRespawn.sqf
     Author: Luke(DOD)
     coded for invade and annex tanoa (DOD).
     Can be used as template for any mission.
