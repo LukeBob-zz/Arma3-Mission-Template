@@ -3,7 +3,7 @@
     Author: Luke(DOD)
     coded for invade and annex tanoa (DOD).
     Can be used as template for any mission.  
-    Runs locally on client only.
+    Runs localy on client only.
 */
 
 //-------------- Dynamic grouping system
