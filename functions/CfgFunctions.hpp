@@ -16,13 +16,13 @@
    
 */
 
-
-class Luke
+class BOB
 {
-    tag = "BOB";
-    class functions
-    {
-        file = "functions";
-        myFirstFunction {};
-    };
+	tag = "BOB";
+	class functions
+	{
+		file = "functions";
+		class myFirstFunction {};
+		
+	};
 };
