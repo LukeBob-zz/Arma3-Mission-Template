@@ -4,6 +4,8 @@
     coded for invade and annex tanoa (DOD).
     Can be used as template for any mission.    
     runs on both client and server.
+    
+    Depricated Use only until everything partitioned between client and server.
 */
 
 //-------------- Dynamic Group system
@@ -21,12 +23,3 @@ for [ {_i = 0}, {_i < count(paramsArray)}, {_i = _i + 1} ] do {
 	];
 };
 
-
-//---------------- Animation. spawned with [object, "animation"] spawn BOB_fnc_switchMove;
-BOB_fnc_switchMove = {
-    private["_object","_anim"];
-    _object = _this select 0;
-    _anim = _this select 1;
-    
-    _object switchMove _anim;
-};
