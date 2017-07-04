@@ -9,10 +9,10 @@
 
 author = "";                // Author of the mission. The default loading screen shows this string below the onLoadName in a smaller font prefixed by "by ".
 overviewPicture = ""        // Path to image which will be displayed when the mission is highlighted on the mission selection screen. Image should be .paa format and in 2:1 aspect ratio.
-onLoadMission = "";			// Displays a message while the mission is loading.
-onLoaadIntro = "";			// Displays a message while the intro is loading.
-onLoadMissionTime = 0;		// Define whether you will see the time and date displayed while the mission loads. 1 means visible, 0 hidden.
-onLoadIntroTime = 0;		// Define whether you will see the time and date displayed while the intro loads. 1 means visible, 0 hidden.
+onLoadMission = "";	    // Displays a message while the mission is loading.
+onLoaadIntro = "";	    // Displays a message while the intro is loading.
+onLoadMissionTime = 0;	    // Define whether you will see the time and date displayed while the mission loads. 1 means visible, 0 hidden.
+onLoadIntroTime = 0;	    // Define whether you will see the time and date displayed while the intro loads. 1 means visible, 0 hidden.
 loadScreen = "";            // You can define a picture to be shown while the mission is loaded.
 onPauseScript = "";         // Executes a custom .sqf script or function in scheduled environment (execVM) when player brings up Game Pause screen (presses 'Esc' button).
 
@@ -45,7 +45,7 @@ respawn = 3;
        
 respawnButton = 0;          // Enable or disable the respawn button in the menu for INSTANT and BASE respawn types. 0 = Disabled, 1 = Enabled.
 respawnDelay  = 5;          // Set Unit respawn delay in seconds.		
-respawnVehicleDelay	= 20;   // Set Vehicle respawn delay in seconds.	
+respawnVehicleDelay = 20;   // Set Vehicle respawn delay in seconds.	
 respawnDialog = 0;          // Show the scoreboard and respawn countdown timer for a player if he is killed with respawnType 3. Default is 1 (true).
 
 /*
