@@ -14,5 +14,5 @@ template files for starting arma3 mission in eden editor.
     9. functions\fn_myFirstFunction.sqf
    
     
-    These are the base files you will need to start your arma3 mission. Good Luck :).
+    These are the base files you will need to start your arma3 mission. Good Luck :)
   
