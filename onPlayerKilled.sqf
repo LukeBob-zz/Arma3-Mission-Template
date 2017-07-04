@@ -6,4 +6,6 @@
     Executes on player's Death.
 */
 
+//------------- Save loadout
 
+player setVariable["saved_Loadout",getUnitLoadout player];
