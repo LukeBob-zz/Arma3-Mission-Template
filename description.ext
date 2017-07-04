@@ -140,6 +140,11 @@ wreckRemovalMaxTime = 120; // Maximum time a wreck can remain on the ground if t
 
 class Params 
 {
-    
-	
+    class Luke
+    {
+        title = "this is how you structure params";
+        values[] = {1,0};
+        texts[] = {"Enabled","Disabled"};
+        default = 1;
+    };   
 };
