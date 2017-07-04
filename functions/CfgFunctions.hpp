@@ -16,7 +16,7 @@
    
 */
 
-class BOB
+class Luke
 {
 	tag = "BOB";
 	class functions
