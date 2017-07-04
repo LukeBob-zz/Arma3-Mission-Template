@@ -2,7 +2,8 @@
     filename: @init.sqf
     Author: Luke(DOD)
     coded for invade and annex tanoa (DOD).
-	  Can be used as template for any mission.
+    Can be used as template for any mission.    
+    runs on both client and server.
 */
 
 //-------------- Dynamic Group system
