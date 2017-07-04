@@ -23,3 +23,6 @@ enableEnvironment FALSE;                // Enable/disable environmental effects:
 
 //------------------- Server Executions
 
+// _null = [] execVM "mylocalscript.sqf";                                // example execution of ServerSide sqf.
+// _null = [] execVM "myLocalscript.sqs";                                // example execution of ServerSide sqs.
+// _null = [] execFSM "myLocalFsm.fsm";                                  // example execution of ServerSide fsm.
