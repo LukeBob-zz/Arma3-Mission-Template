@@ -21,7 +21,7 @@ for [ {_i = 0}, {_i < count(paramsArray)}, {_i = _i + 1} ] do {
 };
 
 
-//---------------- Animation. spawned with [unit/object, "animation"] spawn BOB_fnc_switchMove;
+//---------------- Animation. spawned with [object, "animation"] spawn BOB_fnc_switchMove;
 BOB_fnc_switchMove = {
     private["_object","_anim"];
     _object = _this select 0;
