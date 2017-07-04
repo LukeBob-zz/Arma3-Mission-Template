@@ -4,7 +4,7 @@
     coded for invade and annex tanoa (DOD).
     Can be used as template for any mission.
     
-    class name can be anything.
+    Parent class name can be anything.
     tag name is important.
     
     call or spawn with [] call\spawn MYTAG_fnc_MYFUNCTION;
